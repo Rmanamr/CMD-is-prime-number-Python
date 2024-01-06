@@ -1,5 +1,5 @@
 # CMD-is-prime-number-Python V 1.0 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-Python CMD program to check whether the entered number is prime or not.
+Python CMD program to check whether the entered number is prime or not.  
 using Python version 3.12.0  
   
 Run the program using :  
