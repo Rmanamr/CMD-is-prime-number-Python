@@ -38,7 +38,7 @@ def is_Prime_Number(number):
     """
     divisors = []
     divisor = 2
-    while (divisor < number / 2):
+    while(divisor <= number / 2):
         if(number % divisor == 0):
             divisors.append(divisor)
         divisor += 1
